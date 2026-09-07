@@ -1,0 +1,203 @@
+[
+  {
+    "names": [
+      "meteor client",
+      "meteor-client",
+      "meteorclient"
+    ],
+    "name": "Meteor Client",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "wurst"
+    ],
+    "name": "Wurst",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "liquidbounce",
+      "liquid-bounce"
+    ],
+    "name": "LiquidBounce",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "impact client",
+      "impact-client",
+      "impactclient"
+    ],
+    "name": "Impact Client",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "aristois"
+    ],
+    "name": "Aristois",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "bleachhack"
+    ],
+    "name": "BleachHack",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "inertia"
+    ],
+    "name": "Inertia",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "future client",
+      "future-client"
+    ],
+    "name": "Future Client",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "rusherhack",
+      "rusher-hack"
+    ],
+    "name": "RusherHack",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "boze"
+    ],
+    "name": "Boze",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "augustus"
+    ],
+    "name": "Augustus",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "tenacity"
+    ],
+    "name": "Tenacity",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "rise client",
+      "rise-client"
+    ],
+    "name": "Rise",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "exhibition"
+    ],
+    "name": "Exhibition",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "kami"
+    ],
+    "name": "KAMI",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "vape"
+    ],
+    "name": "Vape",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "doomsday"
+    ],
+    "name": "Doomsday",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "thunderhack",
+      "thunder-hack"
+    ],
+    "name": "ThunderHack",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "catlean",
+      "catlean client"
+    ],
+    "name": "CatLean Client",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "krypton client",
+      "krypton-client"
+    ],
+    "name": "Krypton Client",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "thunder client",
+      "thunder-client"
+    ],
+    "name": "Thunder Client",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "dd client",
+      "dd-client"
+    ],
+    "name": "DD Client",
+    "type": "Client"
+  },
+  {
+    "names": [
+      "mouse tweaks",
+      "mouse-tweaks",
+      "mousetweaks"
+    ],
+    "name": "Mouse Tweaks",
+    "type": "Forbidden Mod"
+  },
+  {
+    "names": [
+      "macro mod",
+      "macro-mod"
+    ],
+    "name": "Macro Mod",
+    "type": "Macro"
+  },
+  {
+    "names": [
+      "autoclicker",
+      "auto-clicker",
+      "auto clicker"
+    ],
+    "name": "Auto Clicker",
+    "type": "Macro"
+  },
+  {
+    "names": [
+      "keybind macro",
+      "keybind-macro"
+    ],
+    "name": "Keybind Macro",
+    "type": "Macro"
+  }
+]
